@@ -1,5 +1,6 @@
 # hello-world
 This is me:
+
 A former Hospitality Gury becoming a Front End Developer
 
 I am 38 years old and live with my pregnant wife and 3 yo son in Weesp in the Netherlands.
